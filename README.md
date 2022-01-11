@@ -1,0 +1,2 @@
+# expyfun
+Exploring python fundamentals
